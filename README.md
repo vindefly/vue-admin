@@ -1,8 +1,4 @@
 <p align="center">
-  <img width="320" src="https://wpimg.wallstcn.com/ecc53a42-d79b-42e2-8852-5126b810a4c8.svg">
-</p>
-
-<p align="center">
   <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/vue-2.5.10-brightgreen.svg" alt="vue">
   </a>
@@ -20,26 +16,6 @@
   </a>
 </p>
 
-English | [简体中文](./README.zh-CN.md)
-
-## Introduction
-
-`vue-element-admin` is a production-ready solution for admin interfaces. Based on [Vue.js](https://github.com/vuejs/vue) and use the UI Toolkit -- [element](https://github.com/ElemeFE/element). `vue-element-admin` is a magical vue admin, it based on the newest development stack of vue, built-in i18n solution, typical templates for enterprise applications, lots of awesome features. It helps you build a large complex Single-Page Applications. I believe whatever your needs are, this project will help you.
-
-- [Preview](http://panjiachen.github.io/vue-element-admin)
-
-- [Documentation](https://panjiachen.github.io/vue-element-admin-site/#/)
-
-- [Gitter](https://gitter.im/vue-element-admin/discuss)
-
-- [Wiki](https://github.com/PanJiaChen/vue-element-admin/wiki)
-
-- [Donate](https://panjiachen.github.io/vue-element-admin-site/#/donate)
-
-**vue-element-admin is a admin interfaces integration solution, which is not suitable for secondary development as a base template.**
-
- - Base template recommends using: [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template)  
- - Desktop: [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
 
 **Note: This project uses element-ui@2.3.0+ version, so the minimum compatible vue@2.5.0+**
 
@@ -135,25 +111,7 @@ npm run lint
 npm run lint -- --fix
 ```
 
-Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/#/deploy) for more information
-
-## Changelog
-Detailed changes for each release are documented in the [release notes](https://github.com/PanJiaChen/vue-element-admin/releases).
-
-## Online Demo
-[Preview](http://panjiachen.github.io/vue-element-admin)
-
 ## Donate
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
-![donate](https://cdn.it120.cc/apifactory/2018/06/06/0c666a0ddf668d439207416e05cfcf6e.jpg)
-
-[Paypal Me](https://www.paypal.me/panfree23)
-
-[Buy me a coffee](https://www.buymeacoffee.com/Pan)
-
-## License
-
-[MIT](https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE)
-
-Copyright (c) 2017-present PanJiaChen
+![donate](https://cdn.it120.cc/apifactory/2018/06/06/35d84f6bc8010be88162ee42d914d965.png)
