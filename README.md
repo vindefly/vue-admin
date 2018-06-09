@@ -146,7 +146,7 @@ Detailed changes for each release are documented in the [release notes](https://
 ## Donate
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
-![donate](https://wpimg.wallstcn.com/bd273f0d-83a0-4ef2-92e1-9ac8ed3746b9.png)
+![donate](https://cdn.it120.cc/apifactory/2018/06/06/0c666a0ddf668d439207416e05cfcf6e.jpg)
 
 [Paypal Me](https://www.paypal.me/panfree23)
 
