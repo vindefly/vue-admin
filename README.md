@@ -110,8 +110,3 @@ npm run lint
 # auto fix
 npm run lint -- --fix
 ```
-
-## Donate
-If you find this project useful, you can buy author a glass of juice :tropical_drink:
-
-![donate](https://cdn.it120.cc/apifactory/2018/06/06/35d84f6bc8010be88162ee42d914d965.png)
